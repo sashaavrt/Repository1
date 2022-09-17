@@ -1,0 +1,15 @@
+/Users/sasaavrt/Projects/решение_кв_уравнений/решение_кв_уравнений/bin/Debug/net6.0/решение_кв_уравнений
+/Users/sasaavrt/Projects/решение_кв_уравнений/решение_кв_уравнений/bin/Debug/net6.0/решение_кв_уравнений.deps.json
+/Users/sasaavrt/Projects/решение_кв_уравнений/решение_кв_уравнений/bin/Debug/net6.0/решение_кв_уравнений.runtimeconfig.json
+/Users/sasaavrt/Projects/решение_кв_уравнений/решение_кв_уравнений/bin/Debug/net6.0/решение_кв_уравнений.dll
+/Users/sasaavrt/Projects/решение_кв_уравнений/решение_кв_уравнений/bin/Debug/net6.0/решение_кв_уравнений.pdb
+/Users/sasaavrt/Projects/решение_кв_уравнений/решение_кв_уравнений/obj/Debug/net6.0/решение_кв_уравнений.csproj.AssemblyReference.cache
+/Users/sasaavrt/Projects/решение_кв_уравнений/решение_кв_уравнений/obj/Debug/net6.0/решение_кв_уравнений.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sasaavrt/Projects/решение_кв_уравнений/решение_кв_уравнений/obj/Debug/net6.0/решение_кв_уравнений.AssemblyInfoInputs.cache
+/Users/sasaavrt/Projects/решение_кв_уравнений/решение_кв_уравнений/obj/Debug/net6.0/решение_кв_уравнений.AssemblyInfo.cs
+/Users/sasaavrt/Projects/решение_кв_уравнений/решение_кв_уравнений/obj/Debug/net6.0/решение_кв_уравнений.csproj.CoreCompileInputs.cache
+/Users/sasaavrt/Projects/решение_кв_уравнений/решение_кв_уравнений/obj/Debug/net6.0/решение_кв_уравнений.dll
+/Users/sasaavrt/Projects/решение_кв_уравнений/решение_кв_уравнений/obj/Debug/net6.0/refint/решение_кв_уравнений.dll
+/Users/sasaavrt/Projects/решение_кв_уравнений/решение_кв_уравнений/obj/Debug/net6.0/решение_кв_уравнений.pdb
+/Users/sasaavrt/Projects/решение_кв_уравнений/решение_кв_уравнений/obj/Debug/net6.0/решение_кв_уравнений.genruntimeconfig.cache
+/Users/sasaavrt/Projects/решение_кв_уравнений/решение_кв_уравнений/obj/Debug/net6.0/ref/решение_кв_уравнений.dll

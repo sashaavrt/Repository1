@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "решение_кв_уравнений/1.0.0": {
+        "runtime": {
+          "решение_кв_уравнений.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "решение_кв_уравнений/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
